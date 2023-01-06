@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pedPE7qMGIK2FQrqiYRZDD5YM4kID9ScxhKYywjKv6zv49L4aTK+BQ/YP63p2uTwvlWfZfto8AkTR1KXO+IBYw==",
+  "success": true,
+  "projectFilePath": "C:\\Project_PrintLabels\\PrintLabels\\PrintLabels\\PrintLabels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.32\\microsoft.extensions.configuration.fileextensions.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.32\\microsoft.extensions.configuration.json.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.32\\microsoft.extensions.fileproviders.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.32\\microsoft.extensions.fileproviders.physical.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.32\\microsoft.extensions.filesystemglobbing.3.1.32.nupkg.sha512",
+    "C:\\Users\\A393755\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
