@@ -1,0 +1,4 @@
+It's a very easy software to send files to a Zebra label printer.
+I just tested in Windows Operational System, to works in Linux some adjusts are necessary.
+Remenber the file that will send to printer needs to be in a zpl format.
+The program was writed using a .Net Core Framewok version 3.1.0
